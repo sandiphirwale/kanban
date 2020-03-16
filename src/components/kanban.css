@@ -1,0 +1,14 @@
+.card{
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 2em;
+    -webkit-box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 11px -8px rgba(0,0,0,0.75);
+    }
+    .card-header{
+    
+    }
+    .card-body{
+    
+    }
